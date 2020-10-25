@@ -1,4 +1,4 @@
-**Image Classification**
+**Classification using ML**
 --
 This project was created using TensorFlow:
 
