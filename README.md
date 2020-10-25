@@ -1,5 +1,3 @@
-**Classification using ML**
---
 This project was created using TensorFlow:
 
 <div align="center">
